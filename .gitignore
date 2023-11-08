@@ -47,3 +47,7 @@ gradle-app.setting
 
 # IDEA
 .idea/
+
+# Coursera-specific files
+assignmentKey
+partId
